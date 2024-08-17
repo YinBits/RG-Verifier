@@ -1,7 +1,7 @@
-<H1>Validação de RG em C++</H1>h1>
+<H1>Validação de RG em C++</H1>
 Este projeto implementa um programa em C++ para validar números de RG (Registro Geral), um documento de identificação brasileiro. O programa solicita ao usuário que insira seu RG no formato XX.XXX.XXX-X e realiza a validação do dígito verificador com base em um cálculo específico.
 
-<h2>Funcionalidades:<h2>
+<h2>Funcionalidades:</h2>h2>
 <ul>  
 <li>Entrada do Usuário: O programa solicita ao usuário a entrada do RG no formato <b>XX.XXX.XXX-X.<b></li>
 <li>Validação de Formato: Verifica se o RG possui o comprimento adequado de 12 caracteres.</li>
@@ -10,7 +10,7 @@ Este projeto implementa um programa em C++ para validar números de RG (Registro
 <li>Verificação de Validade: Compara o resultado do cálculo com o dígito verificador informado e exibe se o RG é válido ou inválido.</li>
 </ul>
 
-<h2>Como Executar:<h2>
+<h2>Como Executar:</h2>h2>
 <ol>
 <li>Compile o código com um compilador C++.</li>
 <li>Execute o programa.</li>
